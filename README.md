@@ -1,5 +1,5 @@
 
-# Primero CPIMS User Guide [Draft]
+# Primero CPIMS User Guide [Draft2]
 
 June 30, 2017
 
